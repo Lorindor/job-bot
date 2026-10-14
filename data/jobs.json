@@ -172,5 +172,47 @@
    "flexible"
   ],
   "first_seen": "2026-10-12"
+ },
+ "jobicy-150573": {
+  "source": "Jobicy",
+  "title": "Travel Consultant",
+  "company": "BCD Travel",
+  "url": "https://jobicy.com/jobs/150573-travel-consultant-2",
+  "location": "Denmark,  Europe",
+  "salary": "",
+  "score": 3,
+  "tags": [
+   "part-time",
+   "flexible"
+  ],
+  "first_seen": "2026-10-14"
+ },
+ "wwr-https://weworkremotely.com/remote-jobs/atom-partners-limited-junior-crypto-trader-remote-1": {
+  "source": "WWR",
+  "title": "Junior Crypto Trader (Remote)",
+  "company": "ATOM PARTNERS LIMITED",
+  "url": "https://weworkremotely.com/remote-jobs/atom-partners-limited-junior-crypto-trader-remote-1",
+  "location": "Anywhere in the World",
+  "salary": "",
+  "score": 5,
+  "tags": [
+   "part-time",
+   "χωρίς εμπειρία",
+   "flexible"
+  ],
+  "first_seen": "2026-10-14"
+ },
+ "wwr-https://weworkremotely.com/remote-jobs/paragon-planners-part-time-remote-database-crm-specialist": {
+  "source": "WWR",
+  "title": "PART-TIME Remote Database & CRM Specialist",
+  "company": "Paragon Planners",
+  "url": "https://weworkremotely.com/remote-jobs/paragon-planners-part-time-remote-database-crm-specialist",
+  "location": "Anywhere in the World",
+  "salary": "",
+  "score": 2,
+  "tags": [
+   "part-time"
+  ],
+  "first_seen": "2026-10-14"
  }
 }
