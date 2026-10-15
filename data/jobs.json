@@ -214,5 +214,31 @@
    "part-time"
   ],
   "first_seen": "2026-10-14"
+ },
+ "jobicy-146021": {
+  "source": "Jobicy",
+  "title": "Group Financial Controller",
+  "company": "Canonical",
+  "url": "https://jobicy.com/jobs/146021-group-financial-controller",
+  "location": "EMEA,  UK",
+  "salary": "",
+  "score": 2,
+  "tags": [
+   "χωρίς εμπειρία"
+  ],
+  "first_seen": "2026-10-15"
+ },
+ "jobicy-146028": {
+  "source": "Jobicy",
+  "title": "Entry-level communications specialist",
+  "company": "Canonical",
+  "url": "https://jobicy.com/jobs/146028-entry-level-communications-specialist",
+  "location": "EMEA",
+  "salary": "",
+  "score": 2,
+  "tags": [
+   "χωρίς εμπειρία"
+  ],
+  "first_seen": "2026-10-15"
  }
 }
