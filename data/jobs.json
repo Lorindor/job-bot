@@ -385,5 +385,32 @@
    "χωρίς εμπειρία"
   ],
   "first_seen": "2026-10-23"
+ },
+ "jobicy-149519": {
+  "source": "Jobicy",
+  "title": "Technical Author (multiple roles and seniority levels)",
+  "company": "Canonical",
+  "url": "https://jobicy.com/jobs/149519-technical-author-multiple-roles-and-seniority-levels",
+  "location": "Anywhere",
+  "salary": "",
+  "score": 2,
+  "tags": [
+   "χωρίς εμπειρία"
+  ],
+  "first_seen": "2026-10-24"
+ },
+ "wwr-https://weworkremotely.com/remote-jobs/anthropic-anthropic-stem-fellow": {
+  "source": "WWR",
+  "title": "Anthropic STEM Fellow",
+  "company": "Anthropic",
+  "url": "https://weworkremotely.com/remote-jobs/anthropic-anthropic-stem-fellow",
+  "location": "Anywhere in the World",
+  "salary": "",
+  "score": 3,
+  "tags": [
+   "part-time",
+   "flexible"
+  ],
+  "first_seen": "2026-10-24"
  }
 }
